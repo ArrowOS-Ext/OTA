@@ -1,0 +1,18 @@
+{
+    "response": [
+        {
+            "device": "Poco X3 NFC",
+            "codename": "surya",
+            "maintainer": "Skyy丨アラタ",
+            "timestamp": 1746142093,
+            "filename": "ArrowExtended-v13.2-surya-OFFICIAL-20250501-VANILLA.zip",
+            "md5": "6f8a91ce99d69cacca55b991dea24941",
+            "buildtype": "OFFICIAL",
+            "size": 1370259324,
+            "download": "https://sourceforge.net/projects/arata-labs/files/ArrowOS-Extended/VANILLA/ArrowExtended-v13.2-surya-OFFICIAL-20250501-VANILLA.zip/download",
+            "version": "13.2",
+            "forum": "https://t.me/ArataXDummy",
+            "changelogs": "https://github.com/ArrowOS-Ext/OTA/blob/arrow-13.2/changelogs/surya.md"
+        }
+    ]
+}
