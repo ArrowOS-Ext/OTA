@@ -8,6 +8,7 @@
 - Add spoofing options
 - Add extensions menu (Some features moved here)
 - Add Hide adb and developer options from selected apps
+- Add OTA update support
 
 ### ⚙️ Improvements and Enhancements
 
