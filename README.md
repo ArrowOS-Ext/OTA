@@ -1,6 +1,8 @@
 # ArrowOS Extended Changelogs 📝
 
-**Security Patch**: *05 April 2025*
+**Latest Version**: *v13.3*
+
+**Security Patch**: *05 May 2025*
 
 ## What's New 🔥
 
@@ -11,6 +13,14 @@
 - Add GameSpace
 - Per-apps volume control
 - Bypass charge (Device side must be supported)
+- Add ability to change back gesture height
+- Add ability to change maximum notification icons in Status Bar
+- Add ability to change Brightness Slider visibility and position
+- Add ability to change Status Bar layout paddings
+- Allow change default animations to Android Pie
+- Allow hide indicators of Location, Media Projection, Mic, and Camera
+- Add fingerprint vibration options
+- Introduce media cover art in lockscreen
 
 ### ⚙️ Improvements and Enhancements
 ------------------
@@ -19,7 +29,7 @@
 
 ### 🐞 Bugs Fixed
 ------------------
-
+- Hide QS on secure lockscreen
 
 ### 🔥 Features list
 ------------------
@@ -32,5 +42,14 @@
 - Add GameSpace
 - Per-apps volume control
 - Bypass charge (Device side must be supported)
+- Hide QS on secure lockscreen
+- Add ability to change back gesture height
+- Add ability to change maximum notification icons in Status Bar
+- Add ability to change Brightness Slider visibility and position
+- Add ability to change Status Bar layout paddings
+- Allow change default animations to Android Pie
+- Allow hide indicators of Location, Media Projection, Mic, and Camera
+- Add fingerprint vibration options
+- Introduce media cover art in lockscreen
 
 ---
